@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cintia, nice to meet you 😉</h1>
+<h1 align="center">Hi! I'm cintia and this is my GitHub 😉</h1>
 
 - 🌱 I’m currently learning Front-end, Back-end web, Mobile.
 
